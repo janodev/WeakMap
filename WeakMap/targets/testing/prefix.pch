@@ -1,0 +1,7 @@
+
+// BSD License. Created by jano@jano.com.es
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
